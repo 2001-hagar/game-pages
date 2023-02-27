@@ -40,7 +40,7 @@ function winner(){
         return (player =="SCISSORS")?"You win!" : "You Lose!"
     }
     else if (computer=="SCISSORS"){
-        return (player =="PAPER")?"You win!" : "You Lose!"
+        return (player =="ROCK")?"You win!" : "You Lose!"
     }
     
 }
